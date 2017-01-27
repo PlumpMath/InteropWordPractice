@@ -1,0 +1,9 @@
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe.config
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.pdb
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csprojResolveAssemblyReference.cache
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Form1.resources
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Properties.Resources.resources
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.GenerateResource.Cache
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.exe
+c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.pdb
