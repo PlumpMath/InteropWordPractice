@@ -7,3 +7,6 @@ c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\ob
 c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.GenerateResource.Cache
 c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.exe
 c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.pdb
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe.config
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.exe
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.pdb

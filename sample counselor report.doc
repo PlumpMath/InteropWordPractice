@@ -1,0 +1,179 @@
+<div style="font-size: 10px; text-align: center;margin-top:-100px;">
+    <table>
+        <tr>
+            <td style="text-align: center;">
+                <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\introspects.png' alt="Introspect" style="width: 200px;" />
+            </td>
+        </tr>
+    </table>
+    <table style="font-family: Calibri;">
+        <tr>
+            <td style="text-align: center; font-family: Calibri;font-size:18pt;">Report of Aptitudes and Inclination
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">
+                
+                <table style="font-family: Calibri; width: 100%;">
+                    <tr>
+                        <td style="text-align: left;">Code: 7</td>
+                        <td style="text-align: right;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Name: Tester &nbsp;&nbsp;Tester</td>
+                        <td style="text-align: right;">Date of Testing: Friday, January 27, 2017</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Email: Tester@gmail.com</td>
+                        <td style="text-align: right;">Date of Report: Friday, January 27, 2017</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Address: <br /></td>
+                        <td style="text-align: right;">Date of Birth: 01-01-0001</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">
+                <div class="table-responsive">
+                    <table class="table table-bordered table-hover table-striped" style="text-align: center !important; font-family: Calibri; width: 100%;">
+                        <tr>
+                            <th style="width: 5%">&nbsp;</th>
+                            <th style="width: 30%;text-align:left;">APTITUDES</th>
+                            <th style="width: 20%; text-align: center;">ABILITY QUOTIENT</th>
+                            <th style="width: 15%; text-align: center;">PR</th>
+                            <th style="width: 30%">Remarks</th>
+                        </tr>
+                        <tr><td colspan="5" style="border-top:1px solid black;"></td></tr>
+
+                            <tr>
+                                <td style="width: 20px">1)</td>
+                                <td style="width: 30%">Cognition</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">2)</td>
+                                <td style="width: 30%">Reasoning</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">3)</td>
+                                <td style="width: 30%">Spatial</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">4)</td>
+                                <td style="width: 30%">Verbal Ability</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">5)</td>
+                                <td style="width: 30%">Social Ability</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">6)</td>
+                                <td style="width: 30%">Numerical Ability</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr>
+                                <td style="width: 20px">7)</td>
+                                <td style="width: 30%">Basic Geomatrical Understadings</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0.14</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                    </table>
+                    <br />
+                    <table class="table table-bordered table-hover table-striped" style="text-align: center !important; font-family: Calibri; width: 100%;">
+                        <tr>
+                            <th style="width: 5%">&nbsp;</th>
+                            <th style="width: 30%;text-align:left;">INCLINATION TOWARDS -</th>
+                            <th style="width: 20%; text-align: center;">&nbsp;</th>
+                            <th style="width: 15%; text-align: center;">&nbsp;</th>
+                            <th style="width: 30%">&nbsp;</th>
+                        </tr>
+                        <tr><td colspan="5" style="border-top:1px solid black;"></td></tr>
+                            <tr data-ng-repeat="user in ReportData.data.Orientation">
+                                <td style="width: 5%">8)</td>
+                                <td style="width: 30%">Knowledge</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr data-ng-repeat="user in ReportData.data.Orientation">
+                                <td style="width: 5%">9)</td>
+                                <td style="width: 30%">Practical</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr data-ng-repeat="user in ReportData.data.Orientation">
+                                <td style="width: 5%">10)</td>
+                                <td style="width: 30%">Artistic</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr data-ng-repeat="user in ReportData.data.Orientation">
+                                <td style="width: 5%">11)</td>
+                                <td style="width: 30%">Social</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                            <tr data-ng-repeat="user in ReportData.data.Orientation">
+                                <td style="width: 5%">12)</td>
+                                <td style="width: 30%">Power</td>
+                                <td style="width: 20%; text-align: right; padding-right: 65px;">0</td>
+                                <td style="width: 15%; text-align: right; padding-right: 45px;">0</td>
+                                <td style="width: 30%">Needs improvement</td>
+                            </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">
+               <table style="text-align: center !important; font-family: Calibri; width: 100%;"><tr><td style="text-align: left;">NOTE -1. Level of concentration found to be improved</td><td style="text-align: right;">F/0/0/N</td></tr></table></td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Level of concentration found satisfactory. </td>
+        </tr>
+        <tr><td style="border-top:1px solid black;"></td></tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: right;">SIGNATURE</td>
+        </tr>
+    </table>
+
+    <!--SECOND PART STARTS FROM HERE-->
+    
+</div>
