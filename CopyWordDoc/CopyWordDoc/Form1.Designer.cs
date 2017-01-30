@@ -28,54 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.sourceFilePath = new System.Windows.Forms.TextBox();
-            this.browseBtn = new System.Windows.Forms.Button();
-            this.copyBtn = new System.Windows.Forms.Button();
+            this.createBtn = new System.Windows.Forms.Button();
             this.exitBtn = new System.Windows.Forms.Button();
-            this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
-            // sourceFilePath
+            // createBtn
             // 
-            this.sourceFilePath.Location = new System.Drawing.Point(33, 26);
-            this.sourceFilePath.Name = "sourceFilePath";
-            this.sourceFilePath.Size = new System.Drawing.Size(358, 20);
-            this.sourceFilePath.TabIndex = 0;
-            // 
-            // browseBtn
-            // 
-            this.browseBtn.Location = new System.Drawing.Point(420, 26);
-            this.browseBtn.Name = "browseBtn";
-            this.browseBtn.Size = new System.Drawing.Size(75, 23);
-            this.browseBtn.TabIndex = 1;
-            this.browseBtn.Text = "Browse";
-            this.browseBtn.UseVisualStyleBackColor = true;
-            this.browseBtn.Click += new System.EventHandler(this.browseBtn_Click);
-            // 
-            // copyBtn
-            // 
-            this.copyBtn.Location = new System.Drawing.Point(104, 80);
-            this.copyBtn.Name = "copyBtn";
-            this.copyBtn.Size = new System.Drawing.Size(84, 40);
-            this.copyBtn.TabIndex = 2;
-            this.copyBtn.Text = "Copy";
-            this.copyBtn.UseVisualStyleBackColor = true;
+            this.createBtn.Location = new System.Drawing.Point(109, 39);
+            this.createBtn.Name = "createBtn";
+            this.createBtn.Size = new System.Drawing.Size(84, 40);
+            this.createBtn.TabIndex = 2;
+            this.createBtn.Text = "Create";
+            this.createBtn.UseVisualStyleBackColor = true;
+            this.createBtn.Click += new System.EventHandler(this.createBtn_Click);
             // 
             // exitBtn
             // 
-            this.exitBtn.Location = new System.Drawing.Point(316, 80);
+            this.exitBtn.Location = new System.Drawing.Point(308, 39);
             this.exitBtn.Name = "exitBtn";
             this.exitBtn.Size = new System.Drawing.Size(84, 40);
             this.exitBtn.TabIndex = 3;
             this.exitBtn.Text = "Exit";
             this.exitBtn.UseVisualStyleBackColor = true;
-            // 
-            // openFileDialog1
-            // 
-            this.openFileDialog1.FileName = "openFileDialog1";
-//            this.openFileDialog1.Filter = "(*.doc)|.doc|(*.docx)|.docx";
-            this.openFileDialog1.CheckFileExists = true;
-            this.openFileDialog1.CheckPathExists = true;
+            this.exitBtn.Click += new System.EventHandler(this.exitBtn_Click);
             // 
             // Form1
             // 
@@ -83,23 +58,17 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(519, 132);
             this.Controls.Add(this.exitBtn);
-            this.Controls.Add(this.copyBtn);
-            this.Controls.Add(this.browseBtn);
-            this.Controls.Add(this.sourceFilePath);
+            this.Controls.Add(this.createBtn);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.TextBox sourceFilePath;
-        private System.Windows.Forms.Button browseBtn;
-        private System.Windows.Forms.Button copyBtn;
+        private System.Windows.Forms.Button createBtn;
         private System.Windows.Forms.Button exitBtn;
-        private System.Windows.Forms.OpenFileDialog openFileDialog1;
     }
 }
 

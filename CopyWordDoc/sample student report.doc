@@ -1,0 +1,276 @@
+<div style="font-size: 10px; text-align: center;margin-top:-100px;">
+    
+
+    <!--SECOND PART STARTS FROM HERE-->
+    <table style="text-align: left; vertical-align: top; width: 780px; font-family: Calibri;">
+        <tr>
+            <td style="border-top: 1px solid grey;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\introspects.png' alt="Introspect" style="width: 200px;" />
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;font-size:16pt;" class="labelSmall">Description of Aptitudes and Inclination Report
+            </td>
+        </tr>
+        <tr><td>&nbsp;</td></tr>
+        <tr>
+            <td style="text-align: left;">
+                <table style="font-family: Calibri; width: 100%;">
+                    <tr>
+                        <td style="text-align: left;">Code: 7</td>
+                        <td style="text-align: right;">&nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Name: Tester &nbsp;&nbsp;Tester</td>
+                        <td style="text-align: right;">Date of Testing: Saturday, January 28, 2017</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Email: Tester@gmail.com</td>
+                        <td style="text-align: right;">Date of Report: Saturday, January 28, 2017</td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left;">Address: <br /></td>
+                        <td style="text-align: right;">Date of Birth: 01-01-0001</td>
+                    </tr>
+                </table></td>
+        </tr>
+        <tr><td style="border-top:1px solid black;"></td></tr>
+        <tr>
+            <td style="text-align: left;">&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Intelligence is multi-dimensional.  It is not possible to measure it through any single test.  Hence, this module consists of different sub-tests measuring variety of aptitudes that are significant in academic & professional life.  Development of any aptitude depends on the psychological environment, opportunity to use the aptitudes since childhood and the need of that aptitude in present circumstances.  It is quite possible that these aptitudes may or may not flourish in future. Apart from the aptitudes measured through this test, there are many other aptitudes exists in human, but due to time constraint, only few those are directly linked with education are considered in this module.  	 </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="text-align: left; font-family: Calibri">
+                    <tr>
+                        <td class="first" style="text-align: left;">1)</td>
+                        <td>SUBJECT UNDERSTANDING -  This aptitude is essential in all learning situations and to complete any academic course.  This is the basic aptitude required for learning new things, forming concepts, using these concepts to gather more information and obtain knowledge.  You can still enhance this aptitude by more observation, reading, listening, thinking over the information gained and solving problems independently.  </td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154001530.jpeg' alt="Subject"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first" style="width: 10px !important;">2)</td>
+                        <td style="text-align: left;">LOGICAL/ANALYTICAL -  You have to learn variety of subjects in school and college.  Particularly, at the college level, you have to study with less help from teachers and parents.  While studying any subject, when you collect information you have to think logically and analytically to understand underlying theories and interpreting various illustrations.  This aptitude is required for high level success in any academic course especially science subjects.  You can still enhance this ability by reading small passages and concluding the information gained, practicing short answer problems, understanding theorems in geometry and solving problems based on them.</td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154372474.jpeg' alt="Logical"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">3)</td>
+                        <td style="text-align: left;">SPATIAL (3-D VISUALIZATION) -  This aptitude is concerned with understanding of the space and dimensions, perceiving things in two dimensional and 3-dimensional perspective. Spatial ability is a category of reasoning skills that refers to the capacity to think about objects in two or  three dimensions. This aptitude gives you the visual judgments regarding speed , distance, time, depth, width etc.  In academics, it is more essential in mathematics, physics, engineering, architecture, sculpture and other fine arts as well as sports etc.  You can enhance this aptitude by being moving around, doing things by hand, visualizing things in 3-D perspective, also by controlling the impulsive reactions, having deep thoughts before conclusions etc.</td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154472741.jpeg' alt="Spatial"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">4)</td>
+                        <td style="text-align: left;">VERBAL  -   This aptitude involved in understanding the meaning and underlying concepts of words through language for learning, making inferences and gathering information.  This aptitude is required in reading, writing, listening and speaking.  In almost all academic success, mastery on language found like a backbone of success.  A average level of verbal , is essential for success in practical life too.  You can still enhance this aptitude by involving yourself more in verbal communication, little loud reading etc. It is found that emphasizing more on expression leads to enhancing the verbal aptitude.</td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154573008.jpeg'  alt="Verbal"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">5)</td>
+                        <td style="text-align: left;">SOCIAL UNDERSTANDING -  This is an aptitude required for understanding people, understanding the facial expressions, gestures, postures, way of talking etc.  A keen observer on all these aspects found higher on social intelligence  as well.   You can enhance this aptitude by interacting with people of various age and background, observe their behavior and try to understand their feelings and thoughts.</td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154663248.jpeg' alt="Social"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">6)</td>
+                        <td style="text-align: left;">BASIC GEOMETRICAL UNDERSTANDING -   In mathematics, geometrical understanding has different requirement as far as the aptitudes are concerned.  It requires 3-Dimensional thinking and visualization ability.  In a higher education, specially where engineering drawing or any designing is essential, this aptitude is mandatory to grasp the knowledge of such fields.   You can develop this aptitude by doing things by hand, by avoiding use of technology.  Also various puzzles and games/sports help to develop this aptitude.</td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154813644.jpeg' alt="Geomatrical"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">7)</td>
+                        <td style="text-align: left;">NUMERICAL MEMORY -   This aptitude enables us to remember numbers in large quantities, coded information and quantitative statistical data.   Numerical memory facilitates learning more in commerce and science subject. You can improve this ability through certain techniques like visualization, by learning multiplication tables and also by practicing some tactics.  </td>
+                        <td class="graph">
+                            <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\Graphs\graph636211800154743457.jpeg' alt="Numerical"/></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td style="text-align: center;">
+                <img src='C:\Users\mukesh\Dropbox\Project\Introspects\NitinCode\Source\Tests\Images\introspects.png' alt="Introspect" style="width: 200px;" />
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center;font-size:14pt;" class="labelSmall">DESCRIPTION OF INCLINATION AND BEHAVIOUR REPORT</td>
+        </tr>
+        <tr><td style="border-top:1px solid black;"></td></tr>
+        <tr>
+            <td>Individuals differ in their interest, needs, values, approaches in thinking and behavior.  These depend on psycho-socio environment in which the child is brought up and child’s own interest.<br /><br />
+                Interest and inclinations get matured through experience and circumstances.  Teacher parents and counselor should try to provide the environment for developing this aspect of personality.  The grades given in the report as excellent, very good etc. indicate only the approximate level of specific inclination at present.
+            </td>
+        </tr>
+       <tr><td style="border-top:1px solid black;"></td></tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">10)</td>
+                        <td>RECEPTIVITY -   Receptivity is required in pursuing higher level of studies, research, teaching, making plans etc.   High scores on receptivity individuals found keen in learning, found ready to acquire new information and knowledge.   One can develop the receptivity by controlling the reactions, detailed reading, developing the habit of underlining the key words and key lines.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">11)</td>
+                        <td>RESULT ORIENTED THINKING -  Having this inclination more, individual found better in solving the numerical of science and commerce.  One can develop by giving emphasis on final outcome or to the crux of the studies.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">12)</td>
+                        <td>ARTISTIC INCLINATION -  This inclination is towards the arts, sculpture and other artistic related subjects.  A High grade on this inclination does not indicate the ability to perform the art.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">13)</td>
+                        <td>SYMPATHY / EMPATHY -  Understanding others feelings and thoughts, awareness for well being of others and interpersonal relations.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">14)</td>
+                        <td>LEADERSHIP / POWER -  The positive sense of the term is seen in efforts of getting status in the society, achieving higher positions etc.  High score on this inclination should be handled by the counselor in context of above other aptitudes and inclinations.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">15)</td>
+                        <td>CONCENTRATION -   There are many distractions disturbing the individual in their task / goals.  The grade on concentration in this report should be interpreted by the counselor in context of the other aptitudes and inclinations.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+        </tr>
+        <tr><td style="border-top:1px solid black;"></td></tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">&nbsp;</td>
+                        <td>Discuss freely with your counselor about your report as well as about your difficulties, strengths, aspirations etc.
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table class="report" style="font-family: Calibri">
+                    <tr>
+                        <td class="first">&nbsp;</td>
+                        <td>We wish you the best for success in life.</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</div>

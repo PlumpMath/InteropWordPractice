@@ -10,3 +10,13 @@ c:\users\mukesh\documents\visual studio 2012\Projects\CopyWordDoc\CopyWordDoc\ob
 D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe.config
 D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.exe
 D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.pdb
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe.config
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.exe
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.pdb
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.pdb
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csprojResolveAssemblyReference.cache
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.ResolveComReference.cache
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Form1.resources
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Properties.Resources.resources
+F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.GenerateResource.Cache
