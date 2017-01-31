@@ -20,3 +20,10 @@ F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj
 F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Form1.resources
 F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Properties.Resources.resources
 F:\Akhilesh Docs\Github Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.GenerateResource.Cache
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.ResolveComReference.cache
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.exe
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\bin\Debug\CopyWordDoc.pdb
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csprojResolveAssemblyReference.cache
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Form1.resources
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.Properties.Resources.resources
+D:\Learning\My Projects\InteropWordPractice\CopyWordDoc\CopyWordDoc\obj\Debug\CopyWordDoc.csproj.GenerateResource.Cache
